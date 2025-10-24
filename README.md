@@ -5,6 +5,6 @@
 
   # lwaldt's Website
 
-  Visit **[website url](#)** 🚀
+  Visit **[lwaldt.github.io/LaraWaldt_github.io](https://lwaldt.github.io/LaraWaldt_github.io)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
